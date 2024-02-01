@@ -1,0 +1,54 @@
+body{
+ background: url("img-pd.jpg");
+ background-size: contain;
+ display: grid;
+ aspect-ratio: 1/1;
+}
+.love{
+    position: absolute;
+    text-align: center;
+    top: 60px;
+    left: 400px;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 65px;
+    
+
+}
+.icon{
+    position: absolute;
+    top: 26px;
+    left:415px
+}
+.icon2{
+    position: absolute;
+    top: 25px;
+    right:410px;
+}
+.pp{
+    position: absolute;
+    top: 150px;
+    left: 800px;
+    color: aliceblue;
+}
+.pooja{
+    border-color: green;
+    border-width: 10px;
+}
+
+.result{
+    color: white;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+
+.min1{
+    width: 100px;
+    color: black;
+    box-shadow: 1px 1px 1px 12px 3px rgb(223, 108, 108);
+}
+.max{
+top: 200px;
+right: 80px;
+}
